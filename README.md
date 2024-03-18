@@ -1,4 +1,4 @@
-# FastAPI E-commerce
+# Inventory Management
 
 This is an E-commerce management API built with FastAPI.
 
